@@ -1,0 +1,167 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    scroll-behavior: smooth;
+    background-color: #1f2937; /* Dark background for the theme */
+    color: #f9fafb; /* Light text color */
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+  }
+  
+  p {
+    margin: 0;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Section */
+  header {
+    background-color: #111827; /* Darker header */
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    color: #facc15; /* Golden accent for the name */
+  }
+  
+  header nav {
+    margin-top: 10px;
+  }
+  
+  header nav a {
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #f9fafb;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  header nav a:hover {
+    color: #3b82f6; /* Blue accent on hover */
+  }
+  
+  /* About Section */
+  section {
+    margin: 20px 0;
+  }
+  
+  #about {
+    background-color: #374151; /* Dark gray background */
+    padding: 40px 20px;
+    border-radius: 8px;
+  }
+  
+  #about h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  #about p {
+    font-size: 1rem;
+  }
+  
+  /* Signature Dishes (Carousel Section) */
+  .carousel .legend {
+    background: rgba(0, 0, 0, 0.6);
+    color: #f9fafb;
+    font-size: 1rem;
+  }
+  
+  #dishes img {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Cooking Videos Section */
+  #videos video {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Skills Section */
+  #skills {
+    background-color: #111827;
+    padding: 40px 20px;
+    border-radius: 8px;
+  }
+  
+  #skills h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  #skills ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+  }
+  
+  #skills li {
+    background-color: #374151;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #f9fafb;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+  }
+  
+  #skills li:hover {
+    background-color: #3b82f6;
+    transform: scale(1.05);
+  }
+  
+  /* Contact Section */
+  #contact {
+    background-color: #111827;
+    padding: 40px 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  #contact h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  #contact p {
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  
+  #contact a {
+    color: #3b82f6;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  #contact a:hover {
+    color: #facc15; /* Golden color on hover */
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #1f2937;
+    color: #9ca3af;
+    font-size: 0.9rem;
+  }
+  
