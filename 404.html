@@ -1,4 +1,11 @@
-<script>
-    window.location.href = "/portfolio";
-  </script>
-  
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Redirect to the root URL with the proper React route
+      const redirect = window.location.pathname.replace('/chef', '');
+      window.location.replace('/chef' + redirect);
+    </script>
+  </head>
+  <body></body>
+</html>
