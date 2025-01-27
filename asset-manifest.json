@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/chef/static/css/main.85a5fd04.css",
-    "main.js": "/chef/static/js/main.4ce104ec.js",
+    "main.js": "/chef/static/js/main.2df63e62.js",
     "static/js/488.9c92ff38.chunk.js": "/chef/static/js/488.9c92ff38.chunk.js",
     "static/media/PIC1.jpg": "/chef/static/media/PIC1.a8926b63c37296e6e161.jpg",
     "static/media/ms1.jpg": "/chef/static/media/ms1.fef7b338243b18f2f90f.jpg",
     "index.html": "/chef/index.html",
     "main.85a5fd04.css.map": "/chef/static/css/main.85a5fd04.css.map",
-    "main.4ce104ec.js.map": "/chef/static/js/main.4ce104ec.js.map",
+    "main.2df63e62.js.map": "/chef/static/js/main.2df63e62.js.map",
     "488.9c92ff38.chunk.js.map": "/chef/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85a5fd04.css",
-    "static/js/main.4ce104ec.js"
+    "static/js/main.2df63e62.js"
   ]
 }
