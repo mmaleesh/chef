@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chef/static/css/main.85a5fd04.css",
+    "main.js": "/chef/static/js/main.80c9404c.js",
+    "static/js/488.9c92ff38.chunk.js": "/chef/static/js/488.9c92ff38.chunk.js",
+    "static/media/ms1.jpg": "/chef/static/media/ms1.fef7b338243b18f2f90f.jpg",
+    "index.html": "/chef/index.html",
+    "main.85a5fd04.css.map": "/chef/static/css/main.85a5fd04.css.map",
+    "main.80c9404c.js.map": "/chef/static/js/main.80c9404c.js.map",
+    "488.9c92ff38.chunk.js.map": "/chef/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a5fd04.css",
+    "static/js/main.80c9404c.js"
+  ]
+}
